@@ -71,7 +71,7 @@
 							"",
 							"pm.test(\"Confirm response message\", function () {",
 							"  var jsonData = pm.response.json();",
-							"  pm.expect(jsonData.message).to.eql(\"User Successfully created\");",
+							"  pm.expect(jsonData.message).to.eql(\"User Successully created\");",
 							"});",
 							""
 						],
